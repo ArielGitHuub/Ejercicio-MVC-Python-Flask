@@ -113,14 +113,14 @@ pip install -r requirements.txt
 python app.py
 ```
 
-El proyecto estará disponible en el navegador en: [http://localhost:50002](http://localhost:50002)
+El proyecto estará disponible en el navegador en: [http://localhost:5000](http://localhost:50002)
 
 ### 2. Despliegue en la Nube (Producción)
 
 El proyecto se encuentra alojado y funcionando públicamente en **Render**.
 
 - 🌐 **Enlace de la aplicación:** _(https://ejercicio-mvc-python-flask.onrender.com/)_
-- 🎥 **Video explicativo de la tarea:** _(Inserta aquí tu link de YouTube/Loom)_
+- 🎥 **Video explicativo de la tarea:** _(https://youtu.be/pwHME0ULbX0)_
 
 ---
 
