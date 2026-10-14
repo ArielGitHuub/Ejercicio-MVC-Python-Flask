@@ -119,7 +119,7 @@ El proyecto estará disponible en el navegador en: [http://localhost:50002](http
 
 El proyecto se encuentra alojado y funcionando públicamente en **Render**.
 
-- 🌐 **Enlace de la aplicación:** _(Inserta aquí tu link de onrender.com)_
+- 🌐 **Enlace de la aplicación:** _(https://ejercicio-mvc-python-flask.onrender.com/)_
 - 🎥 **Video explicativo de la tarea:** _(Inserta aquí tu link de YouTube/Loom)_
 
 ---
